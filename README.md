@@ -1,6 +1,6 @@
 # QRCodeScanner
 
-#Steps to run:
+# Steps to run:
 
 1. Download the project and open the solution "QRReader.sln" in Visual Studio
 2. Run the project, it will open Swagger UI.
@@ -17,7 +17,7 @@
 9. Please use \\ in the file path above - for exampls: C:\\Users\\<<User>>\\Documents\\Dev
 10. Click on "Execute" and you would see a JSON result that has the value of the QRCode
   
-#Steps to run Unit Test Case:
+# Steps to run Unit Test Case:
 
 1. Download the project and open the solution "QRReader.sln" in Visual Studio
 2. Right click on "QRScannerUnitTest" and select "Run Tests".
